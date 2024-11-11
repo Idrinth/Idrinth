@@ -8,4 +8,4 @@ I started developing in 2007, in 2010 it became professional. While my main lang
 | ---- | ---- | ---- | --- |
 | ![Idrinth API Bench](https://avatars.githubusercontent.com/u/168795631?s=200&v=4) | [Idrinth API Bench](https://github.com/idrinth-api-bench) | An open source monitoring and performance measuring framework for anything rest-like. | Creator, Sponsor,Lead Developer |
 | ![Code Climbers](https://avatars.githubusercontent.com/u/172068413?s=200&v=4) | [Code Climbers](https://github.com/CodeClimbersIO) | A gamified way to track how much time you sink into what type of work. | Developer |
-| ![Idrinth Thalui](https://avatars.githubusercontent.com/u/186255462?s=200&v=4) | [Idrinth Thalui](https://github.com/CodeClimbersIO) | A Skyrim Follower for AE and SE. | Creator, Voice Actor, Coder, Writer |
+| ![Idrinth Thalui](https://avatars.githubusercontent.com/u/186255462?s=200&v=4) | [Idrinth Thalui](https://github.com/idrinth-thalui) | A Skyrim Follower for AE and SE. | Creator, Voice Actor, Coder, Writer |

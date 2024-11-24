@@ -4,7 +4,7 @@ I started developing in 2007, in 2010 it became professional. While my main lang
 
 ## Currently involved in:
 
-| Logo | Link&Name | Description | Title |
+| Logo | Link&Name | Description | Role(s) |
 | ---- | ---- | ---- | --- |
 | ![Idrinth API Bench](https://avatars.githubusercontent.com/u/168795631?s=200&v=4) | [Idrinth API Bench](https://github.com/idrinth-api-bench) | An open source monitoring and performance measuring framework for anything rest-like. | Creator,<br> Sponsor,<br> Lead Developer |
 | ![Code Climbers](https://avatars.githubusercontent.com/u/172068413?s=200&v=4) | [Code Climbers](https://github.com/CodeClimbersIO) | A gamified way to track how much time you sink into what type of work. | Developer |

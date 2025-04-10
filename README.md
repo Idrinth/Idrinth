@@ -1,6 +1,6 @@
 # Björn 'Idrinth' Büttner
 
-I started developing in 2007, in 2010 it became professional. While my main language is PHP, I stray from it quiet often. Idrinth was the name of my high elven swordmaster in the MMORPG Warhammer Online: Age of Reckoning and it stuck.
+I started developing in 2007, in 2010 it became professional. While my main language is PHP, I stray from it quite often. Idrinth was the name of my high elven swordmaster in the MMORPG Warhammer Online: Age of Reckoning and it stuck.
 
 ## Currently involved in:
 
